@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9f0a083.css",
+    "main.js": "/static/js/main.d0d5232e.js",
+    "static/media/staring.JPG": "/static/media/staring.e82db2d0454c42162b31.JPG",
+    "static/media/Mont-HeavyDEMO.otf": "/static/media/Mont-HeavyDEMO.a1c041a8d8e27fc771db.otf",
+    "static/media/Mont-ExtraLightDEMO.otf": "/static/media/Mont-ExtraLightDEMO.7500479912b782061a72.otf",
+    "index.html": "/index.html",
+    "main.d9f0a083.css.map": "/static/css/main.d9f0a083.css.map",
+    "main.d0d5232e.js.map": "/static/js/main.d0d5232e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f0a083.css",
+    "static/js/main.d0d5232e.js"
+  ]
+}
